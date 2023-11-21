@@ -1,0 +1,43 @@
+#img{
+    width: 33%;
+    border: solid;
+    border-color:#808080;
+    border-width: 1px;
+  }
+  
+  body{
+    background: linear-gradient(#000 0%, #808080 50%, #fff 100%);
+    text-align: center;
+    background-repeat: norepeat;
+  }
+  
+  .re{
+    font-family: roboto;
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  .line {
+      height: 6px;
+      background-color: #000;
+      width: 90%;
+      margin: 8px auto;
+  }
+  
+  ul{
+    list-style: none;
+    background: #000;
+    list-style:none;
+    width: 100%;
+  }
+  
+  .link:hover{
+    background-color: #fff;
+    color: #000;
+  }
+  
+  #cb{
+    width: 1024px;
+    height: 568px;
+  }
